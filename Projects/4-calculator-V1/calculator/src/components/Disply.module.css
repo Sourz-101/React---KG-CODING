@@ -1,0 +1,8 @@
+.display {
+    margin: 10px;
+    width: 175px;
+    height: 70px;
+    font-size: 25px;
+    background-color: rgb(235, 252, 252);
+    border-radius: 5px;
+}
